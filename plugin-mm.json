@@ -1,0 +1,132 @@
+{
+    "MetaModulePluginMaintainer": "oksami",
+    "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
+    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-dbiz",
+    "MetaModuleDescription": "dBiz for MetaModule",
+    "MetaModuleIncludedModules": [
+        {
+            "slug": "NavControl",
+            "name": "NavControl"
+        },
+        {
+            "slug": "Bench",
+            "name": "Bench"
+        },
+        {
+            "slug": "Contorno",
+            "name": "Contorno"
+        },
+        {
+            "slug": "Transpose",
+            "name": "Transpose"
+        },
+        {
+            "slug": "Utility",
+            "name": "Utility"
+        },
+        {
+            "slug": "Chord",
+            "name": "Chord"
+        },
+        {
+            "slug": "Bene",
+            "name": "Bene"
+        },
+        {
+            "slug": "PerfMixer",
+            "name": "PerfMixer"
+        },
+        {
+            "slug": "PerfMixer4",
+            "name": "PerfMixer4"
+        },
+        {
+            "slug": "DrMix",
+            "name": "DrMix"
+        },
+        {
+            "slug": "Remix",
+            "name": "Remix"
+        },
+        {
+            "slug": "Smixer",
+            "name": "Smixer"
+        },
+        {
+            "slug": "VCA4",
+            "name": "VCA4"
+        },
+        {
+            "slug": "VCA530",
+            "name": "VCA530"
+        },
+        {
+            "slug": "Verbo",
+            "name": "Verbo"
+        },
+        {
+            "slug": "DVCO",
+            "name": "DVCO"
+        },
+        {
+            "slug": "DAOSC",
+            "name": "DAOSC"
+        },
+        {
+            "slug": "TROSC",
+            "name": "TROSC"
+        },
+        {
+            "slug": "TROSCMK2",
+            "name": "TROSCMK2"
+        },
+        {
+            "slug": "SuHa",
+            "name": "SuHa"
+        },
+        {
+            "slug": "SuHaMK2",
+            "name": "SuHaMK2"
+        },
+        {
+            "slug": "FourSeq",
+            "name": "FourSeq"
+        },
+        {
+            "slug": "Divider",
+            "name": "Divider"
+        },
+        {
+            "slug": "Util2",
+            "name": "Util2"
+        },
+        {
+            "slug": "Smorph",
+            "name": "Smorph"
+        },
+        {
+            "slug": "BigSmorph",
+            "name": "BigSmorph"
+        },
+        {
+            "slug": "QuePasa",
+            "name": "QuePasa"
+        },
+        {
+            "slug": "DualFilter",
+            "name": "DualFilter"
+        },
+        {
+            "slug": "Order",
+            "name": "Order"
+        },
+        {
+            "slug": "DualMatrix",
+            "name": "DualMatrix"
+        },
+        {
+            "slug": "SPan",
+            "name": "SPan"
+        }
+    ]
+}
